@@ -1,8 +1,3 @@
-- 👋 Unknown Personality
-- 
+# Rohan
 
-
-<!---
-Jodrohan/Jodrohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science learner focused on programming.
