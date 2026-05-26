@@ -1,19 +1,43 @@
-<h1 align="center">Rohan — aka Maverick</h1>
+<div align="center">
 
-<p align="center">
-  Building intelligent systems, secure AI infrastructure, and autonomous technologies.
-</p>
+# Rohan — aka Maverick
 
-<p align="center">
-  AI Security • Autonomous Agents • Cybersecurity Infrastructure • AGI Research • Robotics
-</p>
+### Engineering intelligent systems for a future built with AI.
+
+`AI Security` • `Autonomous Agents` • `Cybersecurity Infrastructure` • `AGI Research` • `Robotics`
+
+</div>
 
 ---
 
-### Philosophy
+## Signal
 
-- Learn by building
-- Quality-first engineering
-- Systems thinking
-- Minimalism
-- Long-term engineering
+I build, study, and experiment at the edge of intelligent systems, security, and autonomy.
+
+Focused on understanding how software, AI, and cyber infrastructure evolve into secure and capable systems.
+
+---
+
+## Engineering Principles
+
+```txt
+Learn by building
+Quality-first engineering
+Systems thinking
+Minimalism
+Long-term execution
+```
+
+---
+
+<div align="center">
+
+### Building quietly. Thinking long-term.
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jodrohan&show_icons=true&theme=transparent&hide_border=true" />
+
+</div>
