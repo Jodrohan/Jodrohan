@@ -8,7 +8,7 @@
 
 </div>
 
----
+<br>
 
 ## Signal
 
@@ -16,19 +16,17 @@ I build, study, and experiment at the intersection of intelligent systems, secur
 
 Focused on understanding how software, AI, and cyber infrastructure evolve into secure and capable systems.
 
----
+<br>
 
 ## Engineering Principles
 
-```txt
-Learn by building
-Quality-first engineering
-Systems thinking
-Minimalism
-Long-term execution
-```
+- Learn by building
+- Quality-first engineering
+- Systems thinking
+- Minimalism
+- Long-term execution
 
----
+<br>
 
 <div align="center">
 
