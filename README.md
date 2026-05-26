@@ -4,7 +4,7 @@
 
 ### Engineering intelligent systems for a future built with AI.
 
-`AI Security` • `Autonomous Agents` • `Cybersecurity Infrastructure` • `AGI Research` • `Robotics`
+`AI Security` • `Autonomous Agents` • `Cybersecurity Infrastructure` • `AGI Research`
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## Signal
 
-I build, study, and experiment at the edge of intelligent systems, security, and autonomy.
+I build, study, and experiment at the intersection of intelligent systems, security, and autonomy.
 
 Focused on understanding how software, AI, and cyber infrastructure evolve into secure and capable systems.
 
@@ -33,11 +33,5 @@ Long-term execution
 <div align="center">
 
 ### Building quietly. Thinking long-term.
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jodrohan&show_icons=true&theme=transparent&hide_border=true" />
 
 </div>
