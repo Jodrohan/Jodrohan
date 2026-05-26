@@ -1,19 +1,19 @@
-# Rohan — aka Maverick
+<h1 align="center">Rohan — aka Maverick</h1>
 
-Building intelligent systems, secure AI tools, and autonomous technologies.
+<p align="center">
+  Building intelligent systems, secure AI infrastructure, and autonomous technologies.
+</p>
 
-## Focus Areas
+<p align="center">
+  AI Security • Autonomous Agents • Cybersecurity Infrastructure • AGI Research • Robotics
+</p>
 
-- AI Security
-- Autonomous Agents
-- Cybersecurity Infrastructure
-- AGI Research
-- Robotics
+---
 
-## Philosophy
+### Philosophy
 
 - Learn by building
-- Obsession with quality
+- Quality-first engineering
 - Systems thinking
 - Minimalism
 - Long-term engineering
